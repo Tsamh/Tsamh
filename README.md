@@ -1,5 +1,5 @@
-## Hi there, I'm Sam 👋
-
+## Hi there👋
+I'm Samba, welcome to my profile !
 <!--
 **Tsamh/Tsamh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Tsamh&theme=cobalt&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsamh&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### A Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
